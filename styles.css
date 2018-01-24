@@ -10,14 +10,11 @@
 
    width: 80%;
    max-width: 850px;
-   height: 100vh;
    margin: 5% auto;
 }
 
 .gallery {
    position: relative;
-
-   margin-bottom: 5%;
 }
 
 .gallery img {
